@@ -5,38 +5,37 @@
 
 
 
+### mggaddis  Marshall 
 
-### soleyjh
-
-
-
-* 2/9
-* 2/16
-* 2/23
-* 3/1
-* 3/8
-* 3/15
-* 3/22
+* 2/9 - Intro
+* 2/16 - Load Data into Notebook (maybe Grab)
+* 2/23 - EDA (Pandas, Graphlib)
+* 3/1 - Machine Learn Data
+* 3/8 - Display predictive results
+* 3/15 - Complete Workflow and Finalization 
+* 3/22 - Wrap up
 
 
-### mggaddis
-
-* 2/9
-* 2/16
-* 2/23
-* 3/1
-* 3/8
-* 3/15
-* 3/22
+### michaeliam Michaelia
 
 
-### michaeliam
+* 2/9 - Intro
+* 2/16 - Load Data into Notebook
+* 2/23  - EDA (Pandas, Graphlib)
+* 3/1  - Machine Learn Data
+* 3/8  - Display predictive results
+* 3/15 - Complete Workflow and Finalization 
+* 3/22 - Wrap up
 
 
-* 2/9
-* 2/16
-* 2/23
-* 3/1
-* 3/8
-* 3/15
-* 3/22
+### soleyjh Jay
+
+
+* 2/9 - Intro
+* 2/16 - Grab and Load Data into Notebook
+* 2/23  - EDA (Pandas, Sframes, Graphlib, matplotib, bokeh)
+* 3/1  - Machine Learn Data
+* 3/8  - Display predictive results
+* 3/15 - Complete Workflow and Finalization 
+* 3/22 - Wrap up
+
